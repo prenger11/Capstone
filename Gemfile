@@ -61,4 +61,4 @@ gem "react-rails", "~> 2.5"
 
 gem "bootstrap", "~> 4.3"
 
-gem "devise", "~> 4.6"
+gem "devise", "~> 4.7"
